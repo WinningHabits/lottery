@@ -1,0 +1,2 @@
+# lottery
+juypter notebook depository
